@@ -40,6 +40,24 @@
 
 ### Ответ на задание 1
 
+Список сетевых служб разрешенных в системе
+
+![](https://github.com/alexei-golovin/SYS-23-13-01/blob/main/files/101.jpg)
+
+Уязвимости обнаруженные при сканировании системы
+
+![](https://github.com/alexei-golovin/SYS-23-13-01/blob/main/files/102.jpg)
+![](https://github.com/alexei-golovin/SYS-23-13-01/blob/main/files/103.jpg)
+![](https://github.com/alexei-golovin/SYS-23-13-01/blob/main/files/104.jpg)
+
+Ссылки на уязвимости
+
+vsftpd 2.3.4 - https://www.exploit-db.com/exploits/17491
+
+UnrealIRCd 3.2.8.1 - https://www.exploit-db.com/exploits/16922
+
+Apache Tomcat 5.5.0 - https://www.exploit-db.com/exploits/12343
+
 ---
 
 ### Задание 2
